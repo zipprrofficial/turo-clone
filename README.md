@@ -1,4 +1,4 @@
-A Turo clone is a peer-to-peer car rental marketplace script that allows individuals to rent out their personal vehicles in a similar way as Turo. With a <a href="https://zipprr.com/category/turo-clone/">Turo clone script</a>, car owners can list their vehicles on an online marketplace and rent them out to travelers and locals for short-term periods.
+A Turo clone is a peer-to-peer car rental marketplace script that allows individuals to rent out their personal vehicles in a similar way as Turo. With a <a href="https://zipprr.com/turo-clone/">Turo clone script</a>, car owners can list their vehicles on an online marketplace and rent them out to travelers and locals for short-term periods.
 
 <h2><b>Main Features</b></h2>
 
